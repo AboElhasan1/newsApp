@@ -2,12 +2,15 @@
 class Assets {
   Assets._();
 
-  static const String assetsBall = 'assets/ball.png';
-  static const String assetsBussines = 'assets/bussines.png';
-  static const String assetsEnvironment = 'assets/environment.png';
-  static const String assetsHealth = 'assets/health.png';
-  static const String assetsNewsTest = 'assets/NewsTest.png';
-  static const String assetsPolitics = 'assets/Politics.png';
-  static const String assetsScience = 'assets/science.png';
+  static const String imagesBall = 'assets/images/ball.png';
+  static const String imagesBgImage = 'assets/images/bg_image.png';
+  static const String imagesBusiness = 'assets/images/business.png';
+  static const String imagesEnvironment = 'assets/images/environment.png';
+  static const String imagesGeneral = 'assets/images/general.png';
+  static const String imagesHealth = 'assets/images/health.png';
+  static const String imagesLoading = 'assets/images/loading.png';
+  static const String imagesLogo = 'assets/images/logo.png';
+  static const String imagesScience = 'assets/images/science.png';
+  static const String imagesTechnology = 'assets/images/technology.png';
 
 }
